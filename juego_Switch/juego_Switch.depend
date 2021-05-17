@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1582856165 source:e:\sergio\documents\platzi\1. fundamentos de la programación\4. curso de programación estructurada\juego_switch\main.c
+	<stdio.h>
+	<stdlib.h>
+
