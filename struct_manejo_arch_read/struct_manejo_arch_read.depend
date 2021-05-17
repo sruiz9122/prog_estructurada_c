@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586648486 source:e:\sergio\documents\platzi\4. curso de programación estructurada\struct_manejo_arch_read\main.c
+	<stdio.h>
+	<stdlib.h>
+
