@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1586481007 source:e:\sergio\documents\platzi\4. curso de programación estructurada\calculate_power\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
