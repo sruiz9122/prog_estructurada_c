@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1586827816 source:e:\sergio\documents\platzi\4. curso de programación estructurada\librerias\main.c
+	<stdio.h>
+	<stdlib.h>
+	"operatios.h"
+
+1586827020 e:\sergio\documents\platzi\4. curso de programación estructurada\librerias\operatios.h
+
