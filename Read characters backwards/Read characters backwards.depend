@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1586177959 source:e:\sergio\documents\platzi\4. curso de programación estructurada\read characters backwards\main.c
+	<stdio.h>
+	<stdlib.h>
+
